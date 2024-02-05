@@ -1,10 +1,3 @@
-Hey This is my website, pretty basic but figured a readme.  I will try and update it here and there. Check out the socials and videos though! This is more a "hub" to get you to where you want to go!  Below is the information from the template I used! 
-
--M@TT
-
-----------
-
-
 Forty by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
